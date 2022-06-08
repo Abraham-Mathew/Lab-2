@@ -1,7 +1,5 @@
 # Lab-2
 
-# Lab-2
-
 In this lab, based on the data we are going to find out if the cancer is benign or malignant. We would use classification techniques to predict the values (1 or 0) on our dataset.
 
 Code details
